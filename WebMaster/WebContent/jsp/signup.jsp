@@ -44,7 +44,7 @@
             <ul class="pure-menu-list">
                 <li class="pure-menu-item"><a href="${ contextPath }/jsp/translate.jsp" class="pure-menu-link">Translate</a></li>
                 <li class="pure-menu-item"><a href="${ contextPath }/jsp/map.jsp" class="pure-menu-link">Map</a></li>
-                <li class="pure-menu-item"><a href="${ contextPath }/jspsearch.jsp" class="pure-menu-link">Search</a></li>
+                <li class="pure-menu-item"><a href="${ contextPath }/jsp/search.jsp" class="pure-menu-link">Search</a></li>
                 <li class="pure-menu-item"><a href="${ contextPath }/jsp/login.jsp" class="pure-menu-link">Login</a></li>
                 <li class="pure-menu-item menu-item-divided pure-menu-selected">
                     <a href="${ contextPath }/jsp/signup.jsp" class="pure-menu-link">Sign Up</a>
